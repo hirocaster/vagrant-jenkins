@@ -1,0 +1,7 @@
+bin
+vendor/gems
+modules
+.bundle
+.tmp
+.vagrant
+.librarian
